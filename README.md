@@ -6,3 +6,4 @@ Este repositorio tiene las prácticas y entregas de la materia de Sistemas Opera
 - [Práctica 1](Parcial1Practica1.md)
 - [Práctica 2](Parcial1Practica%202_EdgarPinto.md)
 - [Práctica 4](https://github.com/EdgarPinto38/Parcial1Practica4)
+- [Práctica 8](/practica-8.md)
