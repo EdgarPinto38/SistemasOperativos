@@ -12,3 +12,4 @@ Este repositorio tiene las prácticas y entregas de la materia de Sistemas Opera
 - [Práctica 1](https://github.com/EdgarPinto38/Parcial2-Practica1)
 
 Modificado para ver si sirve el git y si esta bien el usuario
+versión 1.0.0
