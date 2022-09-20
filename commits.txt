@@ -1,0 +1,91 @@
+commit fc948dbb327f91bb4ecde12161d2a3c81a1f223c
+Author: EdgarPinto38 <edgarpinto010203@gmail.com>
+Date:   Tue Sep 20 09:43:21 2022 -0500
+
+    v1.0.0
+
+commit a28da93443267ae87122e3894a5b88d9f98a869d
+Author: EdgarPinto38 <edgarpinto010203@gmail.com>
+Date:   Thu Sep 15 12:44:03 2022 -0500
+
+    Agregando enlace de la práctica 1 del parcial 2
+
+commit 3a88538b612d6cdeb3174afb0be9b52327df1ae5
+Merge: d457e1d 6b56004
+Author: EdgarPinto38 <edgarpinto010203@gmail.com>
+Date:   Tue Sep 13 10:37:33 2022 -0500
+
+    Merge branch 'js'
+
+commit d457e1d881cf4a158775e9915547d40823c75cb8
+Author: EdgarPinto38 <edgarpinto010203@gmail.com>
+Date:   Tue Sep 13 10:35:44 2022 -0500
+
+    cambio en index
+
+commit 523505e537bae8e8400c6eda4fdf5d2e0a2fc931
+Author: EdgarPinto38 <edgarpinto010203@gmail.com>
+Date:   Tue Sep 13 10:26:13 2022 -0500
+
+    Agregando cambios a index.html desde la rama css
+
+commit 6b560049ee6929c1770c2254abcefd74dd03f287
+Author: EdgarPinto38 <edgarpinto010203@gmail.com>
+Date:   Tue Sep 13 10:09:37 2022 -0500
+
+    Creando archivo script.js para la rama js
+
+commit 920de9cef4f7ccec86e41f283ca95299539b392c
+Author: EdgarPinto38 <edgarpinto010203@gmail.com>
+Date:   Tue Sep 13 10:04:18 2022 -0500
+
+    Creando archivo style css para la rama css
+
+commit d0942966582d1a867c21cb01464d3102458e12b1
+Author: EdgarPinto38 <edgarpinto010203@gmail.com>
+Date:   Tue Sep 13 09:50:46 2022 -0500
+
+    Creando archivo index.html desde la rama html
+
+commit de76fa28388a57979f33fd2aef3d5968e507621c
+Author: EdgarPinto38 <edgarpinto010203@gmail.com>
+Date:   Tue Sep 13 09:39:13 2022 -0500
+
+    cambio para ver si todo funciona bien
+
+commit 767e0148ee1a3a1678e97b3eb110068e49f2d60e
+Author: EdgarPinto38 <edgarpinto010203@gmail.com>
+Date:   Wed Sep 7 12:26:52 2022 -0500
+
+    Agrgando enlace y conteido de la Práctica 8
+
+commit 0c1921e8f51eec2b7d00da8e6bdf3e30dc3882fa
+Author: EdgarPinto38 <edgarpinto010203@gmail.com>
+Date:   Tue Sep 6 10:53:42 2022 -0500
+
+    agregando archivo git .ignore
+
+commit 13157222d6db3a6ae41479bcddab36b01b8876b5
+Author: EdgarPinto38 <112643953+EdgarPinto38@users.noreply.github.com>
+Date:   Tue Sep 6 10:48:56 2022 -0500
+
+    Agregando licencia
+
+commit f43653cf12b26b38663041615772fec5840d3430
+Author: Edgar Pinto <edgarpinto010203@gmail.com>
+Date:   Tue Sep 6 09:54:20 2022 -0500
+
+    Agregando practica 4
+
+commit 674a24bc2e42deb66b43fc2b0a196110a66cf045
+Author: Edgar Pinto <edgarpinto010203@gmail.com>
+Date:   Thu Sep 1 11:01:42 2022 -0500
+
+    Cambio 2
+
+commit 7670d4535fe1fb335f396d15948a6fc8407445f7
+Author: Edgar Pinto <edgarpinto010203@gmail.com>
+Date:   Thu Sep 1 10:45:09 2022 -0500
+
+    Primer commit
+
